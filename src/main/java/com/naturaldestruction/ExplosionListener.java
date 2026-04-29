@@ -103,7 +103,6 @@ public class ExplosionListener implements Listener {
         Material.FLOWERING_AZALEA_LEAVES,
 
         // ── Vegetation ───────────────────────────────────────────────────────
-        Material.SHORT_GRASS,
         Material.TALL_GRASS,
         Material.FERN,
         Material.LARGE_FERN,
