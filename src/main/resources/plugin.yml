@@ -1,0 +1,6 @@
+name: NaturalDestruction
+version: 1.0.0
+main: com.naturaldestruction.NaturalDestruction
+api-version: "1.21"
+author: NaturalDestruction
+description: TNT only destroys whitelisted natural blocks. Everything else is immune.
